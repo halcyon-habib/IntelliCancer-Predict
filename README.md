@@ -47,7 +47,7 @@ A user-friendly web application built with Streamlit and Scikit-learn to predict
 
 4.  **Run the Streamlit app:**
     ```bash
-    streamlit run app.py
+    streamlit run predictor.py
     ```
 
 ## 📄 Disclaimer
